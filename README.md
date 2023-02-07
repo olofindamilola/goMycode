@@ -1,0 +1,2 @@
+# goMycode
+myclasswork
